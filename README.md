@@ -1,4 +1,4 @@
-# Dev Monorail Web App Deployment via Jenkins Pipeline
+# Web App Deployment via Jenkins Pipeline
 
 Dev Monorail is a comprehensive web application designed to manage monorail ticket purchases and guest information efficiently. This README includes instructions for setting up an automated Jenkins pipeline to build and deploy this application, along with important reminders for customization and infrastructure requirements.
 
